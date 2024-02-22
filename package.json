@@ -130,7 +130,7 @@
     "i18n": "^0.11.1",
     "is-docker": "^2.1.1",
     "is-heroku": "^2.0.0",
-    "is-windows": "^1.0.2",
+    "is-windows": "^1.0.3",
     "js-yaml": "^3.14.0",
     "jsonwebtoken": "0.4.0",
     "jssha": "^3.1.1",
